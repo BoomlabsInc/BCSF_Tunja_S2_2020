@@ -1,3 +1,4 @@
+// Crea pollitos con un for loop
 #include <stdio.h>
 #include <cs50.h>
 

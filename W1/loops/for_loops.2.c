@@ -1,3 +1,4 @@
+// Crea pollitos con un contador genérico que hemos llamado i
 #include <stdio.h>
 #include <cs50.h>
 

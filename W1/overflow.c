@@ -1,3 +1,4 @@
+// Desbordamiento de enteros (int) cuando superan el valor que podemos guardar con 32 bits
 #include <stdio.h>
 #include <cs50.h>
 #include <unistd.h>

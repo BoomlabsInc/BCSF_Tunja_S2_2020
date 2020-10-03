@@ -1,4 +1,4 @@
-// Prints a row of 4 question marks with a loop
+// Imprime una fila de 4 signos de interrogación con un bucle
 
 #include <stdio.h>
 

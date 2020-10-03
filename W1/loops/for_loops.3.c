@@ -1,3 +1,4 @@
+// Crea pollitos con funciones y parámetros
 #include <stdio.h>
 #include <cs50.h>
 

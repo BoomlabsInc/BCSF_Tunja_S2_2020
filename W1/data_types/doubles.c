@@ -1,16 +1,16 @@
-// Floating-point arithmetic with double
+// Aritmética de coma flotante con dobles
 
 #include <cs50.h>
 #include <stdio.h>
 
 int main(void)
 {
-    // Prompt user for x
+    // Preguntar al usuario el valor de x
     double x = get_double("x: ");
 
-    // Prompt user for y
+    // Preguntar al usuario el valor de y
     double y = get_double("y: ");
 
-    // Perform division
+    // Realizar división
     printf("x / y = %.50f\n", x / y);
 }

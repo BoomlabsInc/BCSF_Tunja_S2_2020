@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 
+
 void pollito(void);
 
 int main(void)

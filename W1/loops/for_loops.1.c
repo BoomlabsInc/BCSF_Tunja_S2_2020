@@ -1,3 +1,5 @@
+// Crea pollitos con un for loop que tiene declarado el contador fuera del ciclo
+
 #include <stdio.h>
 #include <cs50.h>
 

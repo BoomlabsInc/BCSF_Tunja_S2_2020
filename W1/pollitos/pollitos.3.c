@@ -9,7 +9,7 @@ int main(void)
     pollitos(3);
 }
 
-// Imprimir una cantidad de pollitos
+// Imprimir n pollitos
 void pollitos(int n)
 {
     for (int i = 0; i < n; i++)

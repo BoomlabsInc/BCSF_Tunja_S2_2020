@@ -1,4 +1,5 @@
 // Mejor diseño
+
 #include <stdio.h>
 
 int main(void)

@@ -1,3 +1,4 @@
+// Tamaño de los tipos de datos con sizeof()
 #include <stdio.h>
 #include <cs50.h>
 

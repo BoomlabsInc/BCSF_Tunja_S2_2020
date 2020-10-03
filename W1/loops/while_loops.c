@@ -1,3 +1,4 @@
+// Crea pollitos con While Loops
 #include <stdio.h>
 #include <cs50.h>
 

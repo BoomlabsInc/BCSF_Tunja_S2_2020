@@ -1,4 +1,4 @@
-// Prints 3-by-3 grid of bricks
+// Imprime una cuadrícula de ladrillos de 3 por 3
 
 #include <stdio.h>
 

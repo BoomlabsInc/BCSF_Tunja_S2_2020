@@ -1,4 +1,4 @@
-// Prints a column of 3 bricks with a loop
+// Imprime una columna de 3 ladrillos con un loop
 
 #include <stdio.h>
 

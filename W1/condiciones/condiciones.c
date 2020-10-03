@@ -5,13 +5,13 @@
 
 int main(void)
 {
-    // Prompt user for x
+    // Pregunta al usuario por el valor de x
     int x = get_int("x: ");
 
-    // Prompt user for y
+    // Pregunta al usuario por el valor de y
     int y = get_int("y: ");
 
-    // Compare x and y
+    // Compara x con y
     if (x < y)
     {
         printf("x es menor que y\n");

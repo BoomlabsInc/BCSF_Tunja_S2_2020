@@ -3,6 +3,7 @@
 #include <cs50.h>
 #include <stdio.h>
 
+
 int main(void)
 {
     int edad = get_int("¿Cuántos años tienes?\n");

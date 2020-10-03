@@ -1,4 +1,4 @@
-// Return value
+// Devolver valores
 
 #include <cs50.h>
 #include <stdio.h>
@@ -7,11 +7,11 @@ int cuadrado(int n);
 
 int main(void)
 {
-    int input = get_int("Entrada: ");
-    printf("Salida: %i\n", cuadrado(input));
+    int entrada = get_int("Entrada: ");
+    printf("Salida: %i\n", cuadrado(entrada));
 }
 
-// Square n
+// Sacar el cuadrado de n
 int cuadrado(int n)
 {
     return n * n;

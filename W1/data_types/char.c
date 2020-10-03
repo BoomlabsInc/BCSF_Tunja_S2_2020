@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <cs50.h>
 
+
 // Preguntar al usuario si acepta los términos y condiciones
 int main(void){
 
