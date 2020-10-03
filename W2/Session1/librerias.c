@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <cs50.h>
-#include "hola.h"
+#include "librerias.h"
 
 
 

@@ -1,4 +1,4 @@
-	.file	"hola.c"
+	.file	"librerias.c"
 	.text
 	.globl	main
 	.type	main, @function

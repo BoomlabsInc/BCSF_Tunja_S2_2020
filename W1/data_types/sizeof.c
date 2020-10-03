@@ -10,5 +10,4 @@ int main(void){
     printf("double: %lu bytes; es decir, %lu bits.\n", sizeof(double), sizeof(double)*8);
     printf("long: %lu bytes; es decir, %lu bits.\n", sizeof(long), sizeof(long)*8);
     printf("string: %lu bytes; es decir, %lu bits.\n", sizeof(string), sizeof(string)*8);
-
 }

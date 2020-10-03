@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include <cs50.h>
 
-// Declaración de función (Siempre antes de main)
+// Declaración de funciones ( siempre antes de main() )
 int multiplicar_dos_numeros_enteros(int a, int b);
 int multiplicar_tres_enteros(int a, int b, int c);
+
 void imprimir_numero();
 
 int main(int argc, string argv[]){
@@ -31,5 +32,4 @@ void imprimir_numero(){
 int multiplicar_dos_numeros_enteros(int a, int b){
 
     return a * b;
-
 }
